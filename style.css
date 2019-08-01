@@ -1,0 +1,73 @@
+body{
+background-color:#3498DB;  
+font-family: 'Saira Stencil One', cursive;
+min-height:100%;
+}
+   .navbar { 
+	 
+	 min-height: 220px; 
+	 
+	 } 
+	.hero{ 
+	
+	padding-top: 350px;
+	
+	}
+	.size{
+	font-size:10rem;
+	color:black;
+}
+.i{
+	font-size:10rem;
+}
+.p{
+	padding-top: 50px;
+}
+.s{
+	padding-top: 130px;
+}
+.sa{
+	font-size:9rem;
+	color:white;
+}
+	z{
+	color:white;
+}
+ hr.star { 
+ padding: 0; 
+ border: none; 
+ border-top: solid 13px; 
+ text-align: center; 
+ max-width: 400px; 
+ margin:100px
+ auto 30px;
+   } 
+    hr.star { 
+    border-color: white; 
+    }
+     hr.star:after{ 
+    font-family: FontAwesome; 
+    content:""; 
+    display: inline-block; 
+    position: relative;
+    top: -0.9em; 
+    font-size: 4em;
+    padding: 0.25em;
+ } 
+ .foot{
+	background-color:#212633;
+	color:white;	
+	position:absolute;
+	padding-top:60px;
+	padding-bottom:45px;
+}
+
+ 
+     
+ 
+	 
+	 
+	 
+	 
+ 
+  
